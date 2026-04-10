@@ -9,5 +9,5 @@ I publish:
 
 ## Featured
 - performance-engineering-lab
-- high-load-systems-case-studies
+- [Systems at Scale](https://github.com/tbaraniecki/systems-at-scale) - distributed systems case studies
 - [Domain Modeling Experiments](https://github.com/tbaraniecki/domain-modeling-experiments)
