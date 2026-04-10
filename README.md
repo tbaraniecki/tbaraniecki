@@ -10,4 +10,4 @@ I publish:
 ## Featured
 - performance-engineering-lab
 - high-load-systems-case-studies
-- oop-design-exercises
+- [Domain Modeling Experiments](https://github.com/tbaraniecki/domain-modeling-experiments)
