@@ -1,16 +1,13 @@
-### Hi there 👋
+### Tomasz Baraniecki
 
-<!--
-**tbaraniecki/tbaraniecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and platform engineer specializing in distributed systems, performance, product first approach and pragmatic architecture.
 
-Here are some ideas to get you started:
+I publish:
+* system design case studies
+* performance engineering experiments (k6)
+* OOP / domain modeling exercises
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+- performance-engineering-lab
+- high-load-systems-case-studies
+- oop-design-exercises
